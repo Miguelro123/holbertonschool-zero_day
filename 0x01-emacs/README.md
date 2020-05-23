@@ -53,11 +53,13 @@ What question should you ask yourself first when something doesn’t work as exp
 - Who can help me?
 </details>
 ## Tasks
+
 <details>
 <summary>View Contents</summary>
   
 ### [0. Opening](./0-opening)
 What is the command to open a file from within Emacs?
+
 **Repo:**
 * GitHub repository: `holbertonschool-zero_day`
 * Directory: `0x01-emacs`
