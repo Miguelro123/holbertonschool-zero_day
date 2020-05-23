@@ -4,7 +4,7 @@
 
 ### Read or watch:
 
-[A Guided Tour of Emacs](https://www.gnu.org/software/emacs/tour/)
+- [A Guided Tour of Emacs](https://www.gnu.org/software/emacs/tour/)
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
