@@ -31,36 +31,46 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 <summary>Show</summary>
 
 ### Question #0
-Vim is included with almost every Linux distribution.}
+Vim is included with almost every Linux distribution.
 
-[X] True
+[x] True
+
 [ ] False
 
 ### Question #1
 How do you enter Command Mode in Vi(m)?
 
 [ ] `Ctrl / Command + C`
-[X] `<ESC>`
+
+[x] `<ESC>`
+
 [ ] `<Return>`
 
 ### Question #2
 How do you enter Insert Mode in Vi(m)?
 
 [ ] `<Insert>`
+
 [ ] `<Return>`
-[X] `i`
+
+[x] `i`
 
 ### Question #3
 How do you quit Vi(m)?
 
-[X] `:q<Return>`
+[x] `:q<Return>`
+
 [ ] `<ESC>`
+
 [ ] `q`
 
 ### Question #4
 What is the goal of the Framework?
+
 [X] To ensure you do your due diligence in problem solving
+
 [X] To help you become a software engineer with good problem solving skills, rather than a student with good grades
+
 [X] To encourage you to understand the deeper processes of programming and not just look for code that works
 
 </details>
