@@ -151,7 +151,7 @@ What is the command to talk to your doctor?
 * Directory: `0x01-emacs`
 * File: `101-doctor`
 
+</details>
 ## Author
 
 - **Migue** - [Miguelro123](https://github.com/Miguelro123)
-</details>
