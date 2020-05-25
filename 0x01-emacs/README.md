@@ -154,6 +154,6 @@ What is the command to talk to your doctor?
 </details>
 
 ## Author
-**Miguel Rodriguez**
+**_Miguel Rodriguez_**
 - [**Github**](https://github.com/Miguelro123)
 - [**Linkedin**](https://www.linkedin.com/in/edgar-miguel-rodriguez-garcia-20a5281a2/)
