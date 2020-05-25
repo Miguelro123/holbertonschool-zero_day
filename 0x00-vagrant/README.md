@@ -162,5 +162,6 @@ Type your answer into a file in the `0x00-vagrant` directory and push it to GitH
 </details>
 
 ## Author
-
-- **Migue** - [Miguelro123](https://github.com/Miguelro123)
+**_Miguel Rodriguez_**
+- [**Github**](https://github.com/Miguelro123)
+- [**Linkedin**](https://www.linkedin.com/in/edgar-miguel-rodriguez-garcia-20a5281a2/)
