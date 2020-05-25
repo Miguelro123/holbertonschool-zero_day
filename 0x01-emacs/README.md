@@ -2,7 +2,7 @@
 
 ## Resources
 
-### Read or watch:
+**Read or watch:**
 
 - [A Guided Tour of Emacs](https://www.gnu.org/software/emacs/tour/)
 
