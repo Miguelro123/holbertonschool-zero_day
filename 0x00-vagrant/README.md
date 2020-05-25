@@ -74,37 +74,37 @@ $ git push origin master
 ### Question #0
 What is a virtual machine?
 
--[ ] A set of servers for software development
--[ ] A system for developing virtual reality
--[x] An emulation of a computer system
+- [ ] A set of servers for software development
+- [ ] A system for developing virtual reality
+- [x] An emulation of a computer system
 
 ### Question #1
 Ubuntu is a ____ distribution.
 
--[ ] Windows
--[x] Linux
--[ ] MacOS
+- [ ] Windows
+- [x] Linux
+- [ ] MacOS
 
 ### Question #2
 What is the difference between Git and GitHub?
 
--[x] Git is a version control tool; GitHub is an online service built around the Git tool
--[ ] GitHub is a version control tool; Git is an online service built around the GitHub tool
--[ ] There is no difference, they have the same functionality
+- [x] Git is a version control tool; GitHub is an online service built around the Git tool
+- [ ] GitHub is a version control tool; Git is an online service built around the GitHub tool
+- [ ] There is no difference, they have the same functionality
 
 ### Question #3
 Which of the following is a helpful commit message?
 
--[ ] “Fix code”
--[ ] “Can someone review this commit?”
--[x] “Fix incorrect parsing of user input”
+- [ ] “Fix code”
+- [ ] “Can someone review this commit?”
+- [x] “Fix incorrect parsing of user input”
 
 ### Question #4
 You wrote your first script but it does not execute properly. In order to solve this problem, what’s the first thing you should do?
 
--[ ] Ask a peer
--[ ] Ask a TA
--[x] Read the documentation
+- [ ] Ask a peer
+- [ ] Ask a TA
+- [x] Read the documentation
 
 </details>
 
