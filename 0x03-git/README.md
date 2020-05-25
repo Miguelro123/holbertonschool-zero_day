@@ -213,7 +213,7 @@ Create a `.gitignore` file and define a rule to never push `~` files (generated 
 </details>
 
 ## Author
-### _Miguel Rodríguez_
+### _Edgar Miguel Rodríguez G._
 
 - **Github:** [Miguelro123](https://github.com/Miguelro123) 
 - **Linkedin:** [Edgar Miguel Rodriguez Garcia](https://www.linkedin.com/in/edgar-miguel-rodriguez-garcia-20a5281a2/)
