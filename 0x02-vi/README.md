@@ -146,5 +146,7 @@ What is the command to delete the current and previous line at the same time?
 </details>
 
 ## Author
+### _Miguel Rodríguez_
 
-- **Migue** - [Miguelro123](https://github.com/Miguelro123)
+- **Github:** [Miguelro123](https://github.com/Miguelro123) 
+- **Linkedin:** [Edgar Miguel Rodriguez Garcia](https://www.linkedin.com/in/edgar-miguel-rodriguez-garcia-20a5281a2/)
