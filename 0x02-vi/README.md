@@ -143,7 +143,8 @@ What is the command to delete the current and previous line at the same time?
 * Directory: `0x02-vi`
 * File: `101-delete_line`
 
+</details>
+
 ## Author
 
 - **Migue** - [Miguelro123](https://github.com/Miguelro123)
-</details>
