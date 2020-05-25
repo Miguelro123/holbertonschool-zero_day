@@ -69,7 +69,7 @@ $ git push origin master
 ## Quiz questions
 
 <details>
-<summary>View Contents</summary>
+<summary>Show</summary>
   
 ### Question #0
 What is a virtual machine?
