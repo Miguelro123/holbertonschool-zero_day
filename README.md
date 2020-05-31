@@ -5,10 +5,10 @@
   # Projects
   Projects | Description | Date and time
   ----------- | ----------- | -----------
-  [vagrant](./0x00-vagrant) | Learn, know and understand vagrant | 10/06/2019, 3 day
-  [emacs](./0x01-emacs) | Learn, know and understand emacs | 10/06/2019, 3 day
-  [Vi](./0x02-vi) | Learn, know and understand vi | 10/06/2019, 3 day
-  [Git](./0x03-git) | Learn, know and understand git | 10/06/2019, 3 day
+  [vagrant](./0x00-vagrant) | Learn, know and understand vagrant | 10/06/2019, 3 days
+  [emacs](./0x01-emacs) | Learn, know and understand emacs | 10/06/2019, 3 days
+  [Vi](./0x02-vi) | Learn, know and understand vi | 10/06/2019, 3 days
+  [Git](./0x03-git) | Learn, know and understand git | 10/06/2019, 3 days
 
 
 ## Author
