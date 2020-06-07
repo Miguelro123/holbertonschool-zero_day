@@ -66,6 +66,8 @@ $ git commit -m "Initial commit"
 $ git push origin master
 ```
 
+---
+
 ## Quiz questions
 
 <details>
@@ -107,6 +109,8 @@ You wrote your first script but it does not execute properly. In order to solve 
 - [x] Read the documentation
 
 </details>
+
+---
 
 ## Tasks
 
@@ -160,6 +164,8 @@ Type your answer into a file in the `0x00-vagrant` directory and push it to GitH
 * File: `0-hello_ubuntu`
 
 </details>
+
+---
 
 ## Author
 ### _Edgar Miguel Rodríguez G._
