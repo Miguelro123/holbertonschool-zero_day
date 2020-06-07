@@ -61,6 +61,8 @@ $ git commit -m "Initial commit"
 $ git push origin master
 ```
 
+---
+
 ## Quiz questions
 
 <details>
@@ -89,6 +91,8 @@ What command can you use to see what changes have been staged, which haven’t, 
 - [ ] `git checkout`
 
 </details>
+
+---
 
 ## Tasks
 
@@ -211,6 +215,8 @@ Create a `.gitignore` file and define a rule to never push `~` files (generated 
 * File: `.gitignore`
 
 </details>
+
+---
 
 ## Author
 ### _Edgar Miguel Rodríguez G._
