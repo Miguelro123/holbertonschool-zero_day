@@ -5,7 +5,7 @@
 ---
 
   # Projects
-  NUmber | Projects | Description | Date and time
+  Number | Projects | Description | Date and time
   ----------- | ----------- | ----------- | -----------
   0x00 | [vagrant](./0x00-vagrant) | Learn, know and understand vagrant | 10/06/2019, 3 days
   0x01 | [emacs](./0x01-emacs) | Learn, know and understand emacs | 10/06/2019, 3 days
