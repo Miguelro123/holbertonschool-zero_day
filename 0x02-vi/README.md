@@ -25,6 +25,8 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - If the answer of one of the following questions needs the `Return` key, then use the string `<Return>`. Example: What is the command to write current contents to a file named in the original vi call? The answer should be exactly `:w<Return>`. Note that there is no space between `w` and `<Return>`
 - Your file should only contain the command, and nothing else
 
+---
+
 ## Quiz questions
 
 <details>
@@ -65,6 +67,8 @@ What is the goal of the Framework?
 - [x] To encourage you to understand the deeper processes of programming and not just look for code that works
 
 </details>
+
+---
 
 ## Tasks
 
@@ -144,6 +148,8 @@ What is the command to delete the current and previous line at the same time?
 * File: `101-delete_line`
 
 </details>
+
+---
 
 ## Author
 ### _Edgar Miguel Rodríguez G._
