@@ -2,6 +2,8 @@
 
   This repository contains project for the zero day.
 
+---
+
   # Projects
   Projects | Description | Date and time
   ----------- | ----------- | -----------
@@ -10,6 +12,7 @@
   [Vi](./0x02-vi) | Learn, know and understand vi | 10/06/2019, 3 days
   [Git](./0x03-git) | Learn, know and understand git | 10/06/2019, 3 days
 
+---
 
 ## Author
 ### _Edagr Miguel Rodríguez G._
