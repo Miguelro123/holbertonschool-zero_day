@@ -40,6 +40,9 @@ $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install emacs
 ```
+
+---
+
 ## Quiz questions
 
 <details>
@@ -73,6 +76,8 @@ What question should you ask yourself first when something doesn’t work as exp
 - [ ] What can I Google to find the solution?
 - [ ] Who can help me?
 </details>
+
+---
 
 ## Tasks
 
@@ -152,6 +157,8 @@ What is the command to talk to your doctor?
 * File: `101-doctor`
 
 </details>
+
+---
 
 ## Author
 ### _Edgar Miguel Rodríguez G._
